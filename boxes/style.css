@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border: none;
+    background-color: rgb(150, 22, 210);
+}
+.container{
+    
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    align-items: center;
+
+}
+.box {
+    width: 150px;
+    height: 60px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+  
+   
+}
+
+#btn{
+    width: 150px;
+    height: 60px;
+    border-radius: 5px;
+    cursor: pointer;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    background-color: rgb(255, 255, 255);
+   
+}
